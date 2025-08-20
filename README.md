@@ -5,3 +5,4 @@
 | 3   | Find Duplicate Number | [duplicate_num.cpp](Day%203/duplicate_num.cpp) |
 | 4  | Merge Two Sorted Arrays| [merge_two_arr.cpp](Day%204/merge_two_arr.cpp) |
 | 5 |Find the next leader element| [nextGreater_ele.cpp](Day%205/nextGreater_ele.cpp)|
+| 6 |Find all the subarrays with zero sum | [findzeroEle.cpp](Day%205/nextGreater_ele.cpp)|
