@@ -7,3 +7,4 @@
 | 5 |Find the next leader element| [nextGreater_ele.cpp](Day%205/nextGreater_ele.cpp)|
 | 6 |Find all the subarrays with zero sum | [findZeroSumSubarrays.cpp](Day%206/findZeroSumSubarrays.cpp)|
 | 7 |Traping Rainwater | [trap_rainwater.cpp](Day%207/trap_rainwater.cpp)|
+| 8 |Reverse a String Word by Word | [reverse_string.cpp](Day%208/reverse_string.cpp)|
