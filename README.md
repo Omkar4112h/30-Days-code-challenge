@@ -16,4 +16,5 @@
 | 14|K Distinct Characters|[k_Distinct_Characters.cpp](Day%214/k_Distinct_Characters.cpp)|
 | 15|Length Of LongestSubstring | [length_Of_LongestSubstring.cpp](Day%215/length_Of_LongestSubstring.cpp)
 | 16|Find GCD and LCM | [gcd_lcm.cpp](gcd_lcm.cpp)|
-| 17| Prime Factorization|[ primeFactorization.cpp](Day%217/primeFactorization)|
+| 17| Prime Factorization|[ primeFactorization.cpp](Day%217/primeFactorization.cpp)|
+| 18| Count Divisors |[countDivisors.cpp](Day%218/countDivisors.cpp)|
