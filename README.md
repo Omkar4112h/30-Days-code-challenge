@@ -19,4 +19,4 @@
 | 17| Prime Factorization|[ primeFactorization.cpp](Day%217/primeFactorization.cpp)|
 | 18| Count Divisors |[countDivisors.cpp](Day%218/countDivisors.cpp)|
 | 19| Evaluate a Postfix Expression |[evaluatePostfix.cpp](Day%219/evaluatePostfix.cpp)|
-| 20| Sort a Stack Using Recursion |[]()
+| 20| Sort a Stack Using Recursion |[insertSorted.cpp](Day%220/insertSorted.cpp)|
