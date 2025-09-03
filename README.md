@@ -18,3 +18,5 @@
 | 16|Find GCD and LCM | [gcd_lcm.cpp](gcd_lcm.cpp)|
 | 17| Prime Factorization|[ primeFactorization.cpp](Day%217/primeFactorization.cpp)|
 | 18| Count Divisors |[countDivisors.cpp](Day%218/countDivisors.cpp)|
+| 19| Evaluate a Postfix Expression |[evaluatePostfix.cpp](Day%219/evaluatePostfix.cpp)|
+| 20| Sort a Stack Using Recursion |[]()
