@@ -20,3 +20,4 @@
 | 18| Count Divisors |[countDivisors.cpp](Day%218/countDivisors.cpp)|
 | 19| Evaluate a Postfix Expression |[evaluatePostfix.cpp](Day%219/evaluatePostfix.cpp)|
 | 20| Sort a Stack Using Recursion |[insertSorted.cpp](Day%220/insertSorted.cpp)|
+| 21|Reverse a Stack Using Recursion|[insertAtBottom.cpp](Day%221/insertAtBottom.cpp)|
