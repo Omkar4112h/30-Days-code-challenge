@@ -15,9 +15,10 @@
 | 13| Longest Palindrome String|[longestPalindrome.cpp](Day%213/longestPalindrome.cpp)|
 | 14|K Distinct Characters|[k_Distinct_Characters.cpp](Day%214/k_Distinct_Characters.cpp)|
 | 15|Length Of LongestSubstring | [length_Of_LongestSubstring.cpp](Day%215/length_Of_LongestSubstring.cpp)
-| 16|Find GCD and LCM | [gcd_lcm.cpp](gcd_lcm.cpp)|
+| 16|Find GCD and LCM | [gcd_lcm.cpp](Day%216gcd_lcm.cpp)|
 | 17| Prime Factorization|[ primeFactorization.cpp](Day%217/primeFactorization.cpp)|
 | 18| Count Divisors |[countDivisors.cpp](Day%218/countDivisors.cpp)|
 | 19| Evaluate a Postfix Expression |[evaluatePostfix.cpp](Day%219/evaluatePostfix.cpp)|
 | 20| Sort a Stack Using Recursion |[insertSorted.cpp](Day%220/insertSorted.cpp)|
 | 21|Reverse a Stack Using Recursion|[insertAtBottom.cpp](Day%221/insertAtBottom.cpp)|
+| 22||[firstElementToRepeatKTimes.cpp](Day%222/firstElementToRepeatKTimes)|
