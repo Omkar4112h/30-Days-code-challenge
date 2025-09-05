@@ -21,4 +21,4 @@
 | 19| Evaluate a Postfix Expression |[evaluatePostfix.cpp](Day%219/evaluatePostfix.cpp)|
 | 20| Sort a Stack Using Recursion |[insertSorted.cpp](Day%220/insertSorted.cpp)|
 | 21|Reverse a Stack Using Recursion|[insertAtBottom.cpp](Day%221/insertAtBottom.cpp)|
-| 22||[firstElementToRepeatKTimes.cpp](Day%222/firstElementToRepeatKTimes)|
+| 22| First Element to Repeat k Times|[firstElementToRepeatKTimes.cpp](Day%222/firstElementToRepeatKTimes)|
