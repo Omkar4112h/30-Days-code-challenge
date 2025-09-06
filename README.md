@@ -22,3 +22,4 @@
 | 20| Sort a Stack Using Recursion |[insertSorted.cpp](Day%220/insertSorted.cpp)|
 | 21|Reverse a Stack Using Recursion|[insertAtBottom.cpp](Day%221/insertAtBottom.cpp)|
 | 22| First Element to Repeat k Times|[firstElementToRepeatKTimes.cpp](Day%222/firstElementToRepeatKTimes)|
+| 23| Sliding Window Maximum|[maxSlidingWindow.cpp](Day%223/maxSlidingWindow.cpp)
