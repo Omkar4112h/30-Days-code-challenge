@@ -23,3 +23,4 @@
 | 21|Reverse a Stack Using Recursion|[insertAtBottom.cpp](Day%221/insertAtBottom.cpp)|
 | 22| First Element to Repeat k Times|[firstElementToRepeatKTimes.cpp](Day%222/firstElementToRepeatKTimes)|
 | 23| Sliding Window Maximum|[maxSlidingWindow.cpp](Day%223/maxSlidingWindow.cpp)
+| 24| Lowest Common Ancestor (LCA) in a Binary Tree|[lowestCommonAncestor.cpp](Day%224/lowestCommonAncestor.cpp)|
