@@ -29,4 +29,4 @@
 | 27|Find the Shortest Path in an Unweighted Graph|[shortestPath.cpp](Day%227/shortestPath.cpp)|
 | 28|Check if a Binary Tree is Symmetric|[isSymmetric.cpp](Day%228/isSymmetric.cpp)|
 | 29|Fibonacci Sequence using Dynamic Programming|[fibonacci.cpp](Day%229/fibonacci.cpp)|
-| 30|The Coin Change Problem|[coinChange.cpp](Day%230/coinChange.cpp)|
+| 31|The Coin Change Problem|[coinChange.cpp](Day%230/coinChange.cpp)|
